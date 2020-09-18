@@ -1,0 +1,9 @@
+create_parking_lot 5
+park KA-05-JS-1388 Black
+park KA-05-JV-1281 Green
+park KA-05-KS-2188 Yellow
+park KA-05-MS-2398 Red
+park KA-05-JL-0098 Maroon
+park KA-05-UJ-1002 Green
+leave 2
+park KA-05-UJ-1002 Green
